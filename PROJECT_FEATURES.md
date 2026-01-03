@@ -1,4 +1,7 @@
 " Implemented Features" 
+"## T-01: User Registration System" 
+"Implemented a user registration system where users provide full name, email address, username, password, phone number, gender, NID or passport details, address, and optional profile image." 
+"Integrated OTP-based verification to validate users before creating a verified account." 
 "## T-4: User Dashboard & Profile Management" 
 "   Users can view and modify personal information like name, email, phone number, addresses, and profile image. The system stores the updated data." 
 "## T-8: Interactive Map Integration" 
