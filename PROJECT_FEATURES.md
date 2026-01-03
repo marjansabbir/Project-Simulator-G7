@@ -1,1 +1,5 @@
 " Implemented Features" 
+"## T-8: Interactive Map Integration" 
+"The system uses property location data to integrate Google Maps, allowing users to view property positions, zoom levels, street view, nearby landmarks, distance calculations and location overviews for better decision-making." 
+"**Status: Implemented**" 
+"" 
