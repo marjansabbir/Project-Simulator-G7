@@ -1,1 +1,5 @@
 " Implemented Features" 
+"## T-2: Implement User Login & Logout" 
+"This feature allows users to enter a valid username and password for authentication and ensures the session is safely terminated upon logout." 
+"**Status: Implemented**" 
+"" 
