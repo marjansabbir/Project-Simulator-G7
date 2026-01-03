@@ -1,5 +1,7 @@
 " Implemented Features" 
 "## T-7: Property Search" 
 "Tenants input search criteria such as location, budget, size, number of rooms, facilities and category preferences; the system processes filters, applies sorting options (price, date,  rating) and returns accurate and relevant property listings." 
+"## T-3: User Verification System" 
+"House Owners upload property ownership documents and Tenants submit identity verification through phone number or NID; the system forwards submissions to admins, updates verification status, and displays verification badges upon approval." 
 "**Status: Implemented**" 
 "" 
