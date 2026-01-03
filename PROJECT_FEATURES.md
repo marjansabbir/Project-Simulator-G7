@@ -1,5 +1,5 @@
 " Implemented Features" 
-"## T-3: User Verification System" 
-"House Owners upload property ownership documents and Tenants submit identity verification through phone number or NID; the system forwards submissions to admins, updates verification status, and displays verification badges upon approval." 
+"## T-4: User Dashboard & Profile Management" 
+"   Users can view and modify personal information like name, email, phone number, addresses, and profile image. The system stores the updated data." 
 "**Status: Implemented**" 
 "" 
