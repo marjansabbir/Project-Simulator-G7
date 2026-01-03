@@ -1,1 +1,6 @@
 " Implemented Features" 
+"## T-01: User Registration System" 
+"Implemented a user registration system where users provide full name, email address, username, password, phone number, gender, NID or passport details, address, and optional profile image." 
+"Integrated OTP-based verification to validate users before creating a verified account." 
+"**Status: Implemented**" 
+"" 
