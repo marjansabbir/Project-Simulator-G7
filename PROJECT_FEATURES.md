@@ -1,3 +1,6 @@
+##T-9: Direct Communication
+Tenants and House Owners exchange messages within the platform by sending text-based inquiries; the system ensures secure, spam-free communication and delivers instant notifications for new messages.
+
 " Implemented Features" 
 "## T-2: Implement User Login & Logout" 
 "This feature allows users to enter a valid username and password for authentication and ensures the session is safely terminated upon logout." 
