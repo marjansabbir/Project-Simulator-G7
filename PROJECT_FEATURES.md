@@ -1,1 +1,5 @@
 " Implemented Features" 
+"## T-7: Property Search" 
+"Tenants input search criteria such as location, budget, size, number of rooms, facilities and category preferences; the system processes filters, applies sorting options (price, date,  rating) and returns accurate and relevant property listings." 
+"**Status: Implemented**" 
+"" 
