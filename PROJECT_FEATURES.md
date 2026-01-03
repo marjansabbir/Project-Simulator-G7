@@ -1,4 +1,6 @@
 " Implemented Features" 
+"## T-2: Implement User Login & Logout" 
+"This feature allows users to enter a valid username and password for authentication and ensures the session is safely terminated upon logout." 
 "## T-01: User Registration System" 
 "Implemented a user registration system where users provide full name, email address, username, password, phone number, gender, NID or passport details, address, and optional profile image." 
 "Integrated OTP-based verification to validate users before creating a verified account." 
