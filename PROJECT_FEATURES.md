@@ -1,4 +1,6 @@
 " Implemented Features" 
+"## T-4: User Dashboard & Profile Management" 
+"   Users can view and modify personal information like name, email, phone number, addresses, and profile image. The system stores the updated data." 
 "## T-8: Interactive Map Integration" 
 "The system uses property location data to integrate Google Maps, allowing users to view property positions, zoom levels, street view, nearby landmarks, distance calculations and location overviews for better decision-making." 
 "## T-7: Property Search" 
