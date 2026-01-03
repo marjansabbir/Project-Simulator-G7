@@ -1,6 +1,9 @@
 ##T-9: Direct Communication
 Tenants and House Owners exchange messages within the platform by sending text-based inquiries; the system ensures secure, spam-free communication and delivers instant notifications for new messages.
 
+##T-10:  Admin Panel (Management)
+Admins access a centralized panel to view, modify or remove user profiles, verify properties and documents,monitor complaints, reports and chat logs, manage reviews and policies and analyze platform activity through system-generated insights.
+
 " Implemented Features" 
 "## T-2: Implement User Login & Logout" 
 "This feature allows users to enter a valid username and password for authentication and ensures the session is safely terminated upon logout." 
